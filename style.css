@@ -14,10 +14,9 @@ body {
 }
 
 main {
- background: url(/assets/Mobile.png);
+ background: url(/assets/background.png);
  width: 375px;
  height: 812px;
-
 }
 
 .conteiner {
