@@ -14,10 +14,10 @@ body {
 }
 
 main {
- background: url(assets/background.svg) center;
- width: 100vw;
+ background: url(assets/background.svg) no-repeat center/cover;
+ width: 100vh;
  min-height: 812px;
- height: 100vw;
+ height: 100vh;
 }
 
 .conteiner {
