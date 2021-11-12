@@ -14,21 +14,23 @@ body {
 }
 
 main {
- background: url(assets/background.svg) no-repeat center/cover;
+ background: url(assets/bg-desktop.svg) no-repeat center/cover;
+ background-color: #29292E;
  width: 100vw;
- min-height: 812px;
+ min-height: 820px;
  height: 100vw;
 }
 
 .conteiner {
-  max-width: 250px;
+  max-width: 358px;
+
   margin-left: auto; 
   margin-right: auto;
   text-align: center;
 }
 
 .avatar {
-  margin-top: 11.5rem;
+  margin-top: 25.8rem;
   position: relative;
 }
 
@@ -69,7 +71,7 @@ p {
   margin-top: 2rem;
   margin-bottom: 4rem;
 
-  max-width: 16.3rem;
+  max-width: 26.2rem;
   max-height: 3rem;
 }
 
