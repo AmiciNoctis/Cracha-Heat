@@ -14,7 +14,7 @@ body {
 }
 
 main {
- background: url(assets/background.svg) no-repeat center;
+ background: url(assets/background.svg) center;
  width: 100vw;
  min-height: 812px;
  height: 100vw;
