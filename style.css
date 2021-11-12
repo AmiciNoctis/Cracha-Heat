@@ -1,7 +1,3 @@
-* {
-  margin: 0;
-}
-
 html,
 body {
   height: 100%;
@@ -15,9 +11,9 @@ body {
 
 main {
  background: url(assets/background.svg) no-repeat center/cover;
- width: 100vh;
+ width: 100vw;
  min-height: 812px;
- height: 100vh;
+ height: 100vw;
 }
 
 .conteiner {
@@ -83,4 +79,3 @@ ul {
 
   gap: 0.5rem;
 }
-
